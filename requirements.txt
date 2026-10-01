@@ -1,0 +1,34 @@
+# Bio-ML / MetaMatch dependencies
+
+# Core
+pandas>=2.0
+pyarrow>=12.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+tqdm>=4.65
+
+# ML
+xgboost>=2.0
+
+# Embeddings
+sentence-transformers>=2.2
+transformers>=4.35
+torch>=2.0
+
+# Ontology parsing
+owlready2>=0.45
+rdflib>=7.0
+
+# Topological Data Analysis (TDA)
+ripser>=0.6
+persim>=0.3
+gudhi>=3.8
+POT>=0.9
+
+# NLP metrics
+rouge-score>=0.1
+nltk>=3.8
+
+# Utilities
+requests>=2.31
